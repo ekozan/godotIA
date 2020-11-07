@@ -1,0 +1,14 @@
+[general]
+
+singleton=false
+load_once=true
+symbol_prefix="godot_"
+reloadable=false
+
+[entry]
+
+OSX.64="res://libs/game-darwin-10.6-amd64.dylib"
+
+[dependencies]
+
+OSX.64=[  ]
