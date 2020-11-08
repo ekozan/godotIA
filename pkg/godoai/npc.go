@@ -78,11 +78,11 @@ func (p *NPC) PhysicProcess(delta float64) {
 		velocity = velocity.OperatorMultiplyScalar(float32(delta))
 		str := velocity.AsString()
 		log.Debug(str.AsGoString())
-		p.MoveAndCollide(velocity, true, true, true)
+		collision := p.MoveAndCollide(velocity, true, true, true)
 
-		//if collision != nil {
-		//log.Debug("I collided with " + collision.GetCollider().ToString())
-		// /}
+		if collision != nil {
+			log.Debug("I collided with " + collision.GetCollider().ToString())
+		}
 	}
 	//log.Debug(nv.GetX())
 	// if velocity.Length() > 0 {
