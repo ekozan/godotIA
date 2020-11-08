@@ -8,6 +8,7 @@ reloadable=false
 [entry]
 
 OSX.64="res://libs/game-darwin-10.6-amd64.dylib"
+X11.64="res://libs/game-linux-amd64.so"
 
 [dependencies]
 

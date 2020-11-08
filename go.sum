@@ -32,6 +32,8 @@ github.com/go-logr/logr v0.1.0/go.mod h1:ixOQHD9gLJUVQQ2ZOR7zLEifBX6tGkNJF4QyIY7
 github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
 github.com/godot-go/godot-go v0.0.0-20201102073517-0f1d2e3a6946 h1:Q+dDiwjOaifWynSbLabOA/CJCqDOA/xY3g2+pXsKM6k=
 github.com/godot-go/godot-go v0.0.0-20201102073517-0f1d2e3a6946/go.mod h1:CGpYMM2LR5Hjxe8HEJA7SJHVUMWkUKJdxxCmBvHU1Wk=
+github.com/godot-go/godot-go v0.0.0-20201108093756-29c3791b4520 h1:p/a1CBJ7N/AGL5YqkeQS01gkoooHaBJWCWms2CaiPP8=
+github.com/godot-go/godot-go v0.0.0-20201108093756-29c3791b4520/go.mod h1:CGpYMM2LR5Hjxe8HEJA7SJHVUMWkUKJdxxCmBvHU1Wk=
 github.com/gogo/protobuf v1.1.1/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
 github.com/gogo/protobuf v1.2.1/go.mod h1:hp+jE20tsWTFYpLwKvXlhS1hjn+gTNwPg2I6zVXpSg4=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
